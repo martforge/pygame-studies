@@ -10,6 +10,7 @@ def display_score():
     return current_time
     #print(current_time)
 
+
 def obstacle_movement(obstacle_list):
     if obstacle_list:
         for obstacle_rect in obstacle_list:
